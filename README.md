@@ -1,2 +1,4 @@
 # Sample
-Testing Plan
+
+
+Testing plan is for WixWash
